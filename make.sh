@@ -6,7 +6,7 @@
 
 # AWS variables
 AWS_PROFILE=default
-AWS_REGION=eu-west-3
+AWS_REGION=us-east-1
 # project name
 PROJECT_NAME=eks-blue-green
 # the directory containing the script file
